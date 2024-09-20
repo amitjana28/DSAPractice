@@ -82,7 +82,7 @@ public class BasicArrayOperations {
 	}
 
 	// function to print an array
-	private static void printArray(int[] arr, int n) {
+	public static void printArray(int[] arr, int n) {
 		for(int ele : arr) {
 			System.out.print(ele+" ");
 		}
