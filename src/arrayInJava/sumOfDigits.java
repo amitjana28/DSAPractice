@@ -1,4 +1,4 @@
-package arrayInJava;
+package ArrayInJava;
 
 public class sumOfDigits {
 

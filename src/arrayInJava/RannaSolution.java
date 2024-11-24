@@ -1,4 +1,4 @@
-package arrayInJava;
+package ArrayInJava;
 import java.io.*;
 
 public class RannaSolution {
